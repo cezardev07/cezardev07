@@ -5,7 +5,7 @@ Eu sou Software Developer Front-End
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cezardev07.cezardev07)
 
-**About me:**
+**Sobre:**
 
 - 👩🏼‍💻 html css javascript
 - 💬 Apaixonado por tecnologia, gosto de ajudar e melhorar a vida das pessoas através da programação 👨‍💻

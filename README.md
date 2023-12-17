@@ -23,3 +23,17 @@ seja bem vindo(a) a o meu perfil do github!<img src="https://media.giphy.com/med
   <a href="https://github.com/cezardev07/bikcraft-react-ts"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
   <a href="https://github.com/cezardev07/filter-pokemon-api" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
 </div>
+
+```js
+(function FizzBuzz(){
+  for(let i = 1; i <= 100; i++){
+    console.log(
+      i % 3 === 0 && i % 5 === 0 ? "Fizz Buzz" : 
+      i % 3 === 0 ? "Fizz" :
+      i % 5 === 0 ? "Buzz" :
+      i   
+    )
+  }
+})()
+
+```

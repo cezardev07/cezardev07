@@ -2,7 +2,7 @@
 seja bem vindo(a) a o meu perfil do github!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 #### Graduação: 
-- Análise é desenvolvimento de sistemas - Cursando
+- Análise é desenvolvimento de sistemas
 
 #### Hard Skills:
 <div style="display: inline_block">
